@@ -10,11 +10,11 @@ const Navbar = () => {
     <img src="/logo copy.png" alt="Achilles Fitness Logo" className="w-full" />
   </div>
   <ul className="flex w-3/6 justify-between text-white">
-    <li className="hover:text-red-500 border-b-2 border-red-500"><a href="#">HOME</a></li>
+    <li className="hover:text-red-500 border-b-2 border-red-500"><a href="/">HOME</a></li>
     <li className="hover:text-red-500"><a href="/aboutus">ABOUT US</a></li>
     <li className="hover:text-red-500"><a href="#">WHAT ARE THE BENEFITS</a></li>
     <li className="hover:text-red-500"><a href="#">OUR PRODUCTS</a></li>
-    <li className="hover:text-red-500"><a href="#">CONTACT US</a></li>
+    <li className="hover:text-red-500"><a href="/contactus">CONTACT US</a></li>
   </ul>
   <div className="text-white flex items-center">
     <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
