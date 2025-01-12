@@ -74,32 +74,25 @@ const ProductCard = () => {
         </div>
     </div>
       </div>
-      <div className="max-w-3xl mx-auto p-6 bg-gray-100 rounded-lg shadow-lg">
-      <h2 className="text-2xl font-bold mb-4">Donkey Calf Raise Attachment</h2>
-      <p className="text-gray-700 mb-4">
+      <div className="flex border-b-2 justify-center border-gray-700 bg-transparent">
+      <div className="tab active text-pink-500 border-b-2 border-pink-500 px-4 py-2 cursor-pointer">DESCRIPTION</div>
+      <div className="tab text-white hover:text-pink-500 px-4 py-2 cursor-pointer">INSTRUCTION VIDEO</div>
+      <div className="tab text-white hover:text-pink-500 px-4 py-2 cursor-pointer">
+        REVIEWS 
+      </div>
+    </div>
+      <div className="max-w-3xl mx-auto p-6 bg-transparent rounded-lg shadow-lg">
+      <h2 className="text-2xl font-bold text-white mb-4">Donkey Calf Raise Attachment</h2>
+      <p className="text-white mb-4">
         The Donkey Calf Raise Attachment for the Smith Machine is a premium gym accessory designed to target and isolate the calf muscles. It works in conjunction with the Smith Machine, a popular weightlifting apparatus that features a barbell fixed within vertical steel rails for controlled movement.
       </p>
-      <p className="text-gray-700 mb-4">
+      <p className="text-white mb-4">
         This attachment includes a padded device that enhances comfort during use. The barbell's height is adjustable to accommodate different users. To perform the exercises, users place their feet on a platform and execute calf raises, lifting the weight with their calf muscles.
       </p>
-      <p className="text-gray-700 mb-4">
+      <p className="text-white mb-4">
         Named after the traditional "donkey calf raise" exercise—where a person bends forward while performing calf raises—the attachment allows for a similar motion with added stability. It enables users to concentrate fully on engaging the calf muscles without the need to maintain balance.
       </p>
-      <p className="text-gray-700 mb-4">
-        By using the Donkey Calf Raise Attachment, individuals can specifically target the gastrocnemius and soleus muscles, aiding in the development of strength and size. It’s an excellent tool for enhancing lower-body workouts and achieving comprehensive muscular development.
-      </p>
-    </div><div className="max-w-3xl mx-auto p-6 bg-gray-100 rounded-lg shadow-lg">
-      <h2 className="text-2xl font-bold mb-4">Donkey Calf Raise Attachment</h2>
-      <p className="text-gray-700 mb-4">
-        The Donkey Calf Raise Attachment for the Smith Machine is a premium gym accessory designed to target and isolate the calf muscles. It works in conjunction with the Smith Machine, a popular weightlifting apparatus that features a barbell fixed within vertical steel rails for controlled movement.
-      </p>
-      <p className="text-gray-700 mb-4">
-        This attachment includes a padded device that enhances comfort during use. The barbell's height is adjustable to accommodate different users. To perform the exercises, users place their feet on a platform and execute calf raises, lifting the weight with their calf muscles.
-      </p>
-      <p className="text-gray-700 mb-4">
-        Named after the traditional "donkey calf raise" exercise—where a person bends forward while performing calf raises—the attachment allows for a similar motion with added stability. It enables users to concentrate fully on engaging the calf muscles without the need to maintain balance.
-      </p>
-      <p className="text-gray-700 mb-4">
+      <p className="text-white mb-4">
         By using the Donkey Calf Raise Attachment, individuals can specifically target the gastrocnemius and soleus muscles, aiding in the development of strength and size. It’s an excellent tool for enhancing lower-body workouts and achieving comprehensive muscular development.
       </p>
     </div>
